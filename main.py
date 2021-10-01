@@ -16,6 +16,5 @@ def search_route(width, height):
 def empty_route():
     return 'Hello, Gerry'
 
-
 if __name__ == "__main__":
     app.run()
